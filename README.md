@@ -16,7 +16,6 @@
           js: ["Node", "React"],
           css: ["materialize", "bootstrap"]
           },
-          challenge: "I am working hard to master Competitive Programming" 
     });
   ```
   <!-- profile ends -->
