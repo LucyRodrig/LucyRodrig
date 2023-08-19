@@ -7,23 +7,17 @@
   </td><td valign="top" width="50%">
     
   <!-- profile starts -->
-  ```kotlin
-  data class underwindfall(
-       val pronouns: String = "he|him",
-       val askMeAbout = listOf(
-         "Kotlin", "Java",
-         "Swift","Javascript", "Typescript"
-       )
-       val toLearn = {
-         "Jetpack Compose" to "Future",
-         "KMM" to "Fun"
-       }
-       (0..end).reduce { acc, new ->
-          study(new)
-          coding(new)
-          sumUp(acc) + haveFun(new)
-       }
-  )
+  ```Javascript
+    export default () => ({
+      nationality: "Salvadorean",
+        pronouns: "she/her",
+        technologies: {
+          frontEnd: {
+          js: ["Node", "React"],
+          css: ["materialize", "bootstrap"]
+          },
+          challenge: "I am working hard to master Competitive Programming" 
+    });
   ```
   <!-- profile ends -->
   </td></tr><tr><td valign="top" width="50%">
