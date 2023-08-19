@@ -28,10 +28,10 @@
   <!-- profile ends -->
   </td></tr><tr><td valign="top" width="50%">
   
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AugustMorales26)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucyRodrig)](https://github.com/anuraghazra/github-readme-stats)
    </td>
    <td valign="top" width="50%">
      
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AugustMorales26)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LucyRodrig)](https://git.io/streak-stats)
 
    </td></tr></table>
